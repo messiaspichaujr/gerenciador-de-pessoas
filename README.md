@@ -1,7 +1,7 @@
 # 📌 Sistema de Gerenciamento de pessoas
 O Sistema de Gerenciamento de Pessoas será uma aplicação web desenvolvida para facilitar o cadastro, consulta e administração de usuários. Ele permitirá que os usuários gerenciem perfis e acessos, garantindo uma navegação intuitiva entre as funcionalidades.
 
-Este projeto tem como objetivo o aprendizado de novas tecnologias e a construção de um sistema para a faculdade.
+Este projeto tem como objetivo o aprendizado de novas tecnologias e a construção de um sistema para um trabalho acadêmico.
 
 ### 🚀 Tecnologias Utilizadas:
 
