@@ -5,29 +5,29 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 
 ### Funcionais
 
-1. Cadastro de pessoas com informações como nome, e-mail e telefone.
-2. Edição de dados de pessoas cadastradas.
-3. Remoção de pessoas com confirmação de exclusão.
-4. Criação, edição e remoção de usuários e perfis.
-5. Listagem de pessoas cadastradas com visualização das informações.
-6. Busca por pessoas com filtros como nome e e-mail.
-7. Navegação entre páginas de forma dinâmica e intuitiva.
-8. Login e autenticação de usuários.
-9. Feedbacks claros e mensagens de erro.
-10. Validação de dados de entrada (e-mail único, formato correto, etc.).
+**RF1** - Cadastro de pessoas com informações como nome, e-mail e telefone.
+**RF2** - Edição de dados de pessoas cadastradas.
+**RF3** - Remoção de pessoas com confirmação de exclusão.
+**RF4** - Criação, edição e remoção de usuários e perfis.
+**RF5** - Listagem de pessoas cadastradas com visualização das informações.
+**RF6** - Busca por pessoas com filtros como nome e e-mail.
+**RF7** - Navegação entre páginas de forma dinâmica e intuitiva.
+**RF8** - Login e autenticação de usuários.
+**RF9** - Feedbacks claros e mensagens de erro.
+**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.).
 
 ### Não Funcionais
 
-1. Desempenho eficiente para até 100-200 usuários simultâneos.
-2. Segurança com autenticação, criptografia de senhas e proteção contra ataques.
-3. Interface simples, clara e responsiva.
-4. Escalabilidade para suportar aumento de usuários e dados.
-5. Código bem estruturado e documentado para fácil manutenção.
-6. Compatibilidade com principais navegadores.
-7. Responsividade para ajuste em diferentes tamanhos de tela.
-8. Testabilidade com testes automatizados.
-9. Backup regular e recuperação de dados.
-10. Documentação clara para desenvolvedores e usuários finais.
+**RNF1** - Desempenho eficiente para até 100-200 usuários simultâneos.
+**RNF2** - Segurança com autenticação, criptografia de senhas e proteção contra ataques.
+**RNF3** - Interface simples, clara e responsiva.
+**RNF4** - Escalabilidade para suportar aumento de usuários e dados.
+**RNF5** - Código bem estruturado e documentado para fácil manutenção.
+**RNF6** - Compatibilidade com principais navegadores.
+**RNF7** - Responsividade para ajuste em diferentes tamanhos de tela.
+**RNF8** - Testabilidade com testes automatizados.
+**RNF9** - Backup regular e recuperação de dados.
+**RNF10** - Documentação clara para desenvolvedores e usuários finais.
 
 ### 🚀 Tecnologias Utilizadas:
 
@@ -66,3 +66,6 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 
 - O código será organizado por camadas, facilitando a manutenção do
 - A arquitetura que irei trabalhar vai me permitir ter uma boa noção e mais facilidade em trabalhar nos meus futuros projetos.
+
+[Book 1.pdf](https://github.com/user-attachments/files/19172325/Book.1.pdf)
+
