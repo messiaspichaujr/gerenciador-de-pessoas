@@ -38,7 +38,6 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 - DBeaver – Gerenciador de banco de dados.
 - Postman – Ferramenta para teste de requisições HTTP.
 - XAMPP – Servidor local para banco de dados MySQL.
-- Front-end: Quasar com Vue.js
 
 ## Diagrama de Entidade e Relacionamento:
 
