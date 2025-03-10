@@ -34,15 +34,10 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 ## Back-end: 
 
 - Java JDK 17 – Linguagem de programação principal.
-
 - Eclipse IDE + Spring Tools – Ambiente de desenvolvimento e suporte ao framework Spring.
-
 - DBeaver – Gerenciador de banco de dados.
-
 - Postman – Ferramenta para teste de requisições HTTP.
-
 - XAMPP – Servidor local para banco de dados MySQL.
-  
 - Front-end: Quasar com Vue.js
 
 ## Diagrama de Entidade e Relacionamento:
@@ -52,7 +47,7 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 ## Front-End:
 
 - VS Code – Editor de código para desenvolvimento do front-end.
-
+- Vue.js - Ambiente para estruturamento de pastas, conexão com o banco e back-end.
 - Node.js – Ambiente de execução para o front-end.
 
 ## Versionamento:
