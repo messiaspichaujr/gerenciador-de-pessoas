@@ -64,7 +64,7 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 
 ### Arquitetura MVC:
 
-- O código será organizado por camadas, facilitando a manutenção do
+- O código será organizado por camadas, facilitando a manutenção e desenvolvimento.
 - A arquitetura que irei trabalhar vai me permitir ter uma boa noção e mais facilidade em trabalhar nos meus futuros projetos.
 
 ### Plano de Trabalho:
