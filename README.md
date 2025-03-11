@@ -62,7 +62,7 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 - Testes automatizados para garantir a qualidade do código.
 - Code Review para garantir boas práticas com o sistema.
 
-### Arquitetura MVC:
+### Arquitetura Monolítica usando o padrão MVC:
 
 - O código será organizado por camadas, facilitando a manutenção e desenvolvimento.
 - A arquitetura que irei trabalhar vai me permitir ter uma boa noção e mais facilidade em trabalhar nos meus futuros projetos.
