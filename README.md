@@ -5,16 +5,16 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 
 ### Funcionais
 
-**RF1** - Cadastro de pessoas com informações como nome, e-mail e telefone.
-**RF2** - Edição de dados de pessoas cadastradas.
-**RF3** - Remoção de pessoas com confirmação de exclusão.
-**RF4** - Criação, edição e remoção de usuários e perfis.
-**RF5** - Listagem de pessoas cadastradas com visualização das informações.
-**RF6** - Busca por pessoas com filtros como nome e e-mail.
+**RF1** - Cadastro de pessoas com informações como nome, e-mail e telefone.  
+**RF2** - Edição de dados de pessoas cadastradas.  
+**RF3** - Remoção de pessoas com confirmação de exclusão.  
+**RF4** - Criação, edição e remoção de usuários e perfis.  
+**RF5** - Listagem de pessoas cadastradas com visualização das informações.  
+**RF6** - Busca por pessoas com filtros como nome e e-mail.  
 **RF7** - Navegação entre páginas de forma dinâmica e intuitiva.
-**RF8** - Login e autenticação de usuários.
-**RF9** - Feedbacks claros e mensagens de erro.
-**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.).
+**RF8** - Login e autenticação de usuários. 
+**RF9** - Feedbacks claros e mensagens de erro. 
+**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.). 
 
 ### Não Funcionais
 
