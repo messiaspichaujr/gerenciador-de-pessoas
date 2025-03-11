@@ -10,11 +10,11 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 **RF3** - Remoção de pessoas com confirmação de exclusão.  
 **RF4** - Criação, edição e remoção de usuários e perfis.  
 **RF5** - Listagem de pessoas cadastradas com visualização das informações.  
-**RF6** - Busca por pessoas com filtros como nome e e-mail.  
-**RF7** - Navegação entre páginas de forma dinâmica e intuitiva.  
-**RF8** - Login e autenticação de usuários.  
-**RF9** - Feedbacks claros e mensagens de erro.  
-**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.).  
+**RF6** - Busca por pessoas com filtros como nome e e-mail.    
+**RF7** - Login e autenticação de usuários.  
+**RF8** - Feedbacks claros e mensagens de erro.
+**RF9** - Validação de dados de entrada (e-mail único, formato correto, etc.).  
+**RF10** - Gerenciamento de perfis e status.
 
 ### Requisitos Não Funcionais
 
