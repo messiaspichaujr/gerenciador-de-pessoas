@@ -3,7 +3,7 @@ O Sistema de Gerenciamento de Pessoas será uma aplicação web desenvolvida par
 
 Este projeto tem como objetivo o aprendizado de novas tecnologias e a construção de um sistema para um trabalho acadêmico.
 
-### Funcionais
+### Requisitos Funcionais
 
 **RF1** - Cadastro de pessoas com informações como nome, e-mail e telefone.  
 **RF2** - Edição de dados de pessoas cadastradas.  
@@ -16,7 +16,7 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 **RF9** - Feedbacks claros e mensagens de erro.  
 **RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.).  
 
-### Não Funcionais
+### Requisitos Não Funcionais
 
 **RNF1** - Desempenho eficiente para até 100-200 usuários simultâneos.  
 **RNF2** - Segurança com autenticação, criptografia de senhas e proteção contra ataques.  
