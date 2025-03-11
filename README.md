@@ -11,23 +11,23 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 **RF4** - Criação, edição e remoção de usuários e perfis.  
 **RF5** - Listagem de pessoas cadastradas com visualização das informações.  
 **RF6** - Busca por pessoas com filtros como nome e e-mail.  
-**RF7** - Navegação entre páginas de forma dinâmica e intuitiva.
-**RF8** - Login e autenticação de usuários. 
-**RF9** - Feedbacks claros e mensagens de erro. 
-**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.). 
+**RF7** - Navegação entre páginas de forma dinâmica e intuitiva.  
+**RF8** - Login e autenticação de usuários.  
+**RF9** - Feedbacks claros e mensagens de erro.  
+**RF10** - Validação de dados de entrada (e-mail único, formato correto, etc.).  
 
 ### Não Funcionais
 
-**RNF1** - Desempenho eficiente para até 100-200 usuários simultâneos.
-**RNF2** - Segurança com autenticação, criptografia de senhas e proteção contra ataques.
-**RNF3** - Interface simples, clara e responsiva.
-**RNF4** - Escalabilidade para suportar aumento de usuários e dados.
-**RNF5** - Código bem estruturado e documentado para fácil manutenção.
-**RNF6** - Compatibilidade com principais navegadores.
-**RNF7** - Responsividade para ajuste em diferentes tamanhos de tela.
-**RNF8** - Testabilidade com testes automatizados.
-**RNF9** - Backup regular e recuperação de dados.
-**RNF10** - Documentação clara para desenvolvedores e usuários finais.
+**RNF1** - Desempenho eficiente para até 100-200 usuários simultâneos.  
+**RNF2** - Segurança com autenticação, criptografia de senhas e proteção contra ataques.  
+**RNF3** - Interface simples, clara e responsiva.  
+**RNF4** - Escalabilidade para suportar aumento de usuários e dados.  
+**RNF5** - Código bem estruturado e documentado para fácil manutenção.  
+**RNF6** - Compatibilidade com principais navegadores.  
+**RNF7** - Responsividade para ajuste em diferentes tamanhos de tela.  
+**RNF8** - Testabilidade com testes automatizados.  
+**RNF9** - Backup regular e recuperação de dados.  
+**RNF10** - Documentação clara para desenvolvedores e usuários finais.  
 
 ### 🚀 Tecnologias Utilizadas:
 
