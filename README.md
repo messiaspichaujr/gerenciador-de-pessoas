@@ -67,5 +67,6 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 - O código será organizado por camadas, facilitando a manutenção do
 - A arquitetura que irei trabalhar vai me permitir ter uma boa noção e mais facilidade em trabalhar nos meus futuros projetos.
 
+### Plano de Trabalho:
 ![Capturar](https://github.com/user-attachments/assets/6a522b9c-f7e8-4db0-aab6-30b3a1447b05)
 
