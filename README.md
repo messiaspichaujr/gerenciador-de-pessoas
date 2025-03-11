@@ -12,7 +12,7 @@ Este projeto tem como objetivo o aprendizado de novas tecnologias e a construç�
 **RF5** - Listagem de pessoas cadastradas com visualização das informações.  
 **RF6** - Busca por pessoas com filtros como nome e e-mail.    
 **RF7** - Login e autenticação de usuários.  
-**RF8** - Feedbacks claros e mensagens de erro.
+**RF8** - Feedbacks claros e mensagens de erro.  
 **RF9** - Validação de dados de entrada (e-mail único, formato correto, etc.).  
 **RF10** - Gerenciamento de perfis e status.
 
